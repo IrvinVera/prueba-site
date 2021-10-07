@@ -112,7 +112,7 @@ $( document ).ready(function() {
                     if(response.status == "Success"){
 
                         swal({
-                            title: "Dispositivo registrado correctamente",
+                            title: "Dispositivo modificado correctamente",
                             type: "success",
                         showCancelButton: false,
                         confirmButtonColor: "#a08300",
